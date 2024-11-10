@@ -71,18 +71,21 @@ This project aims to create an AI agent that reads through datasets (CSV files o
    - The system will use the LangChain agent to query **Tavily** and **Groq API** with each generated query.
    - The results will be displayed on the dashboard for review.
 
-![Screenshot 2024-11-11 011648](https://github.com/user-attachments/assets/c5128239-c664-494e-bc38-618bd3dcf66b)
+![Screenshot 2024-11-11 013938](https://github.com/user-attachments/assets/1c615e6d-4e63-4cd5-8cf2-a6fa39543975)
 
-![Screenshot 2024-11-11 010739](https://github.com/user-attachments/assets/f428cbc2-fed6-472d-ae18-133e71c05dff)
+![Screenshot 2024-11-11 013953](https://github.com/user-attachments/assets/aba3046f-a4a0-4147-a0ce-661d8049a2e3)
 
 
 5. **Download Results or Update Google Sheets**:
    - Download results as a CSV by clicking **Download Results as CSV**.
    - If connected to Google Sheets, it will automatically update the sheet with the retrieved data.
 
-![Screenshot 2024-11-11 013938](https://github.com/user-attachments/assets/1c615e6d-4e63-4cd5-8cf2-a6fa39543975)
+![Screenshot 2024-11-10 233942](https://github.com/user-attachments/assets/d109df02-5382-4a41-8c35-dad43624ff5a)
 
-![Screenshot 2024-11-11 013953](https://github.com/user-attachments/assets/aba3046f-a4a0-4147-a0ce-661d8049a2e3)
+![Screenshot 2024-11-10 234014](https://github.com/user-attachments/assets/83d5f681-42e0-4d5e-9e6f-8b65c36cedd0)
+
+
+
 
 
 ## API Keys and Environment Variables
