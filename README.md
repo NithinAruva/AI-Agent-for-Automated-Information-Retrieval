@@ -36,7 +36,7 @@ This project aims to create an AI agent that reads through datasets (CSV files o
     pip install -r requirements.txt
     ```
 
-3. Set up Google Sheets API credentials by following [Google Sheets API setup guide](https://developers.google.com/sheets/api/quickstart/python) and download the `credentials.json` file to the project directory.
+3. Set up Google Sheets API credentials by following [Google Sheets API setup guide](https://developers.google.com/sheets/api/guides/concepts) and download the `credentials.json` file to the project directory.
 
 ## Usage Guide
 
