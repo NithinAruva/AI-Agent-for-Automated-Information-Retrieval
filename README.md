@@ -52,7 +52,7 @@ This project aims to create an AI agent that reads through datasets (CSV files o
    - For CSV files, use the "Upload Data" sidebar to select and upload your file.
    - For Google Sheets, enter the Google Sheets ID in the sidebar and connect.
 
-![Screenshot 2024-11-10 232753](https://github.com/user-attachments/assets/cb35561e-b8ae-4df3-b584-b4ea9bdccc72)
+![Screenshot 2024-11-11 002448](https://github.com/user-attachments/assets/ffe67d12-d5ac-4f24-9bd0-463b6d4ee425)
 
 ![Screenshot 2024-11-10 232816](https://github.com/user-attachments/assets/04f2384a-282d-40ad-835c-23a74d77d39e)
 
