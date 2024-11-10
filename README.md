@@ -60,11 +60,11 @@ This project aims to create an AI agent that reads through datasets (CSV files o
    - Choose the main column that contains the entities you want to search.
    - Enter a query template using `{entity_name}` as a placeholder for the main column values. This placeholder will be replaced with each entity in the column when generating search queries.
 
-![Screenshot 2024-11-11 010135](https://github.com/user-attachments/assets/cedaa513-00e2-4ef6-a971-7cd6a4508b33)
+![Screenshot 2024-11-11 013818](https://github.com/user-attachments/assets/9fadf505-1321-4498-b3b7-66f2ddd2ad66)
 
-![Screenshot 2024-11-11 005613](https://github.com/user-attachments/assets/3afccd59-48a2-45ed-8fb5-7ec582b99e03)
+![Screenshot 2024-11-11 013854](https://github.com/user-attachments/assets/3f917ee2-b6c6-4788-8036-9f18c251b2fd)
 
-![Screenshot 2024-11-11 011219](https://github.com/user-attachments/assets/223e87d4-1bac-4e59-98af-c9e090fc7767)
+![Screenshot 2024-11-11 013922](https://github.com/user-attachments/assets/cbe00936-c28c-4ac3-a88c-05ed1d9b4f1f)
 
 4. **Run Agent Query**:
    - Click the **Run Agent Query** button to start the search and extraction process.
@@ -80,9 +80,9 @@ This project aims to create an AI agent that reads through datasets (CSV files o
    - Download results as a CSV by clicking **Download Results as CSV**.
    - If connected to Google Sheets, it will automatically update the sheet with the retrieved data.
 
-![Screenshot 2024-11-10 233942](https://github.com/user-attachments/assets/76577ed0-27af-489a-a43c-cc4f778c266f)
+![Screenshot 2024-11-11 013938](https://github.com/user-attachments/assets/1c615e6d-4e63-4cd5-8cf2-a6fa39543975)
 
-![Screenshot 2024-11-10 234014](https://github.com/user-attachments/assets/9273519e-9c23-4eb9-9838-6ab40d2c1fde)
+![Screenshot 2024-11-11 013953](https://github.com/user-attachments/assets/aba3046f-a4a0-4147-a0ce-661d8049a2e3)
 
 
 ## API Keys and Environment Variables
