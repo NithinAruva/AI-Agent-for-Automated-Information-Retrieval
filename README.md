@@ -60,20 +60,20 @@ This project aims to create an AI agent that reads through datasets (CSV files o
    - Choose the main column that contains the entities you want to search.
    - Enter a query template using `{entity_name}` as a placeholder for the main column values. This placeholder will be replaced with each entity in the column when generating search queries.
 
-![Screenshot 2024-11-10 233557](https://github.com/user-attachments/assets/51b9c0dc-2f2e-4acb-abc3-118268f9d6fc)
+![Screenshot 2024-11-11 010135](https://github.com/user-attachments/assets/cedaa513-00e2-4ef6-a971-7cd6a4508b33)
 
-![Screenshot 2024-11-10 232833](https://github.com/user-attachments/assets/e26e3832-6a93-4b95-bbfd-70ee73a85028)
+![Screenshot 2024-11-11 005613](https://github.com/user-attachments/assets/3afccd59-48a2-45ed-8fb5-7ec582b99e03)
 
-![Screenshot 2024-11-10 233331](https://github.com/user-attachments/assets/84d6cdb2-5d3a-4d45-be11-c12226648e1f)
+![Screenshot 2024-11-11 011219](https://github.com/user-attachments/assets/223e87d4-1bac-4e59-98af-c9e090fc7767)
 
 4. **Run Agent Query**:
    - Click the **Run Agent Query** button to start the search and extraction process.
    - The system will use the LangChain agent to query **Tavily** and **Groq API** with each generated query.
    - The results will be displayed on the dashboard for review.
 
-![Screenshot 2024-11-10 233345](https://github.com/user-attachments/assets/6e8d567c-1623-4da3-af33-a3a11e25bfe1)
+![Screenshot 2024-11-11 010739](https://github.com/user-attachments/assets/f428cbc2-fed6-472d-ae18-133e71c05dff)
 
-![Screenshot 2024-11-10 233400](https://github.com/user-attachments/assets/9d096f08-8953-4a4a-8fb5-1e58ea4ea71a)
+![Screenshot 2024-11-11 011219](https://github.com/user-attachments/assets/9cd5e4f7-8fd8-4f53-8b65-5977aaea64b0)
 
 5. **Download Results or Update Google Sheets**:
    - Download results as a CSV by clicking **Download Results as CSV**.
