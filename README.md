@@ -77,7 +77,7 @@ This project aims to create an AI agent that reads through datasets (CSV files o
 
 5. **Download Results or Update Google Sheets**:
    - Download results as a CSV by clicking **Download Results as CSV**.
-   - If connected to Google Sheets, you can click **Update to Google Sheets** to update the sheet with the retrieved data.
+   - If connected to Google Sheets, it will automatically update the sheet with the retrieved data.
 
 ![Screenshot 2024-11-10 233942](https://github.com/user-attachments/assets/76577ed0-27af-489a-a43c-cc4f778c266f)
 
