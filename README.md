@@ -6,19 +6,19 @@ This project aims to create an AI agent that reads through datasets (CSV files o
 
 ## Features
 
-1.**Data Upload**: Upload a CSV or connect to Google Sheets for data input.
-2.**Custom Query Template**: Users can define a query with placeholders for each entity.
-3.**Automated Web Search**: The AI performs a web search for each entry and retrieves specific information.
-4.**Structured Output**: The extracted information is formatted into a structured dataset.
-5.**Download and Update**: Results can be downloaded as a CSV or updated directly into the connected Google Sheets.
+- **Data Upload**: Upload a CSV or connect to Google Sheets for data input.
+- **Custom Query Template**: Users can define a query with placeholders for each entity.
+- **Automated Web Search**: The AI performs a web search for each entry and retrieves specific information.
+- **Structured Output**: The extracted information is formatted into a structured dataset.
+- **Download and Update**: Results can be downloaded as a CSV or updated directly into the connected Google Sheets.
 
 ## Tools and Libraries
 
-1.**Dashboard**: Streamlit for the user interface
-2.**Data Handling**: pandas for CSVs and Google Sheets API for sheet interaction
-3.**Search API**: Tavily for web search
-4.**LLM API**: Groq API to handle and parse search results
-5.**Agents**: LangChain for orchestrating search and LLM processing
+- **Dashboard**: Streamlit for the user interface
+- **Data Handling**: pandas for CSVs and Google Sheets API for sheet interaction
+- **Search API**: Tavily for web search
+- **LLM API**: Groq API to handle and parse search results
+- **Agents**: LangChain for orchestrating search and LLM processing
 
 
 ## Setup Instructions
@@ -79,9 +79,10 @@ This project aims to create an AI agent that reads through datasets (CSV files o
    - Download results as a CSV by clicking **Download Results as CSV**.
    - If connected to Google Sheets, you can click **Update to Google Sheets** to update the sheet with the retrieved data.
 
+![Screenshot 2024-11-10 233942](https://github.com/user-attachments/assets/76577ed0-27af-489a-a43c-cc4f778c266f)
+
 ![Screenshot 2024-11-10 234014](https://github.com/user-attachments/assets/9273519e-9c23-4eb9-9838-6ab40d2c1fde)
 
-![Screenshot 2024-11-10 233942](https://github.com/user-attachments/assets/76577ed0-27af-489a-a43c-cc4f778c266f)
 
 ## API Keys and Environment Variables
 
