@@ -101,5 +101,5 @@ To set environment variables, you can use a `.env` file or export the keys direc
 TAVILY_API_KEY=your_tavily_api_key
 GROQ_API_KEY=your_groq_api_key
 ```
-## project demonstration
+## Project Demonstration
 [Link](https://drive.google.com/file/d/1QrjxuA2GlsVfTs0QXA5rGHkD0fEzqo8O/view?usp=sharing)
